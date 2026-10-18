@@ -1,0 +1,9 @@
+{
+  "tehtavat": [
+    {
+      "nimi": "lue tenttiin",
+      "id": "ygnlic85BiU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
